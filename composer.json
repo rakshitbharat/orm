@@ -44,9 +44,6 @@
     },
     "extra": {
         "laravel": {
-            "providers": [
-                "LaravelDoctrine\\ORM\\DoctrineServiceProvider"
-            ],
             "aliases": {
                 "Registry": "LaravelDoctrine\\ORM\\Facades\\Registry",
                 "Doctrine": "LaravelDoctrine\\ORM\\Facades\\Doctrine",
